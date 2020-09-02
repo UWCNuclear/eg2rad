@@ -1,8 +1,8 @@
-# Converting-the-MIDAS-MTsort-output-spectra-matrices-into-Radware-format
+# Converting the MIDAS MTsort output spectra matrices into Radware format
 
 To convert the MIDAS *.E spectrum to RADWARE format
 
-Download the eg2rad program from the link below:
+Download the eg2rad program from this repository or the link below:
 wget http://kaleidoscope.tlabs.ac.za/public/RADWARE/eg2rad
 
 Unzip the executable, put the path of where the eg2rad is located on the .bashrc script.
