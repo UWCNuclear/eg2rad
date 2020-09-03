@@ -1,6 +1,6 @@
-# Converting the MIDAS MTsort output spectra into Radware format
+# Convert the MIDAS MTsort output spectra to Radware format
 
-To convert the MIDAS *.E spectrum to RADWARE format
+To convert the MIDAS *.E spectrum to RADWARE format:
 
 Download the eg2rad program from this repository or the link below:
 
